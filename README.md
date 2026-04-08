@@ -10,7 +10,7 @@
 * ☕ **Donation Support:** Integrated PayPal link for supporters.
 
 ## 🚀 Installation
-1. Go to the [Releases]([https://github.com/soccervortex/Clipboard-Pro/releases/tag/v6.3]) page.
+1. Go to the [Releases](https://github.com/soccervortex/Clipboard-Pro/releases) page.
 2. Download `ClipboardPro_v6.3_Installer.exe`.
 3. Run the installer and follow the instructions.
 
