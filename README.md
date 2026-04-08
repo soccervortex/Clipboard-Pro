@@ -1,6 +1,6 @@
 # 🌟 Clipboard Pro v6.3
 
-![Screenshot van Clipboard Pro](screenshot.png)
+![Screenshot van Clipboard Pro](clipboardui.png)
 
 **Clipboard Pro** is a powerful, lightweight utility for Windows that keeps track of everything you copy. Toggle it instantly with a hotkey and never lose a snippet again.
 
